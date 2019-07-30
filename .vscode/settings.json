@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "examples/**/.DS_Store": true,
+        "examples/**/.merlin": true,
+        "examples/**/.bsb.lock": true,
+        "examples/**/npm-debug.log": true,
+        "examples/lib/bs/": true,
+        "examples/node_modules/": true,
+        "**/.DS_Store": true,
+        "**/.merlin": true,
+        "**/.bsb.lock": true,
+        "**/npm-debug.log": true,
+        "lib/bs/": true,
+        "node_modules/": true,
+        "**/*.bs.js": true
+    }
+}
